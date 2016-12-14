@@ -74,7 +74,7 @@ This project has two licenses, you can select one of three license:
 That means that you can use the product for non commercial purposes.  
 (exaple: Personal use, Study, Open Source,...)  
 
-2) GNU GPL v2: https://www.gnu.org/licenses/gpl2.html
+2) GNU GPL v3: https://www.gnu.org/licenses/gpl.html
 
 2) ErrorSoft PackagesGenerator Commercial license.(see LICENSE.TXT)    
 $10 for individual developers, $50 for company.   
