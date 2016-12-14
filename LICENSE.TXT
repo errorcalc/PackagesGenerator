@@ -5,9 +5,9 @@ This project has two licenses, you can select one of three license:
 That means that you can use the product for non commercial purposes.
 (exaple: Personal use, Study, Open Source,...)
 
-2) GNU GPL v3: https://www.gnu.org/licenses/gpl.html, for projects use GNU GPL license
+2) GNU GPL v3: https://www.gnu.org/licenses/gpl.html, only for opensource projects uses GNU GPL license
 
-2) ErrorSoft PackagesGenerator Commercial license.
+3) ErrorSoft PackagesGenerator Commercial license.
 Copyright (c) 2016 Peter Sokolov, ErrorSoft(c)
 ---
 This license allows the use of the product for commercial purposes.
