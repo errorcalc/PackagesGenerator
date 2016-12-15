@@ -1,11 +1,11 @@
 === License === 
-This project has two licenses, you can select one of three license:
+This project has three licenses, you can select one of three license:
 
 1) Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.
 That means that you can use the product for non commercial purposes.
 (exaple: Personal use, Study, Open Source,...)
 
-2) GNU GPL v3: https://www.gnu.org/licenses/gpl.html, only for opensource projects uses GNU GPL license
+2) GNU GPL v3: https://www.gnu.org/licenses/gpl.html, only for opensource projects with GNU GPL license
 
 3) ErrorSoft PackagesGenerator Commercial license.
 Copyright (c) 2016 Peter Sokolov, ErrorSoft(c)
