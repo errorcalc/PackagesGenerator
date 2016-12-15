@@ -1,3 +1,4 @@
+![Logo](Logo.png)
 # PackagesGenerator
 PackagesGenerator for Delphi
 
