@@ -67,9 +67,9 @@ MyComponents.dproj
 ## Example:
 For example see https://github.com/errorcalc/FreeEsVclComponents, "Packages" dir.
 
-##License:
+## License:
 
-This project has two licenses, you can select one of three license:
+This project has three licenses, you can select one of three license:
 
 1) Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.  
 That means that you can use the product for non commercial purposes.  
