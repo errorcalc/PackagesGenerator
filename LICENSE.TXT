@@ -15,5 +15,6 @@ But subject to the following conditions:
 1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 2. Do not have to sell this product as a standalone product.
 3. Can selling as part of another paid product (ex: Components Library), if you have "company license".
+3.1. Purchase information: Enter256@yandex.ru
 ---
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
