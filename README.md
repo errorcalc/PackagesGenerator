@@ -1,4 +1,3 @@
-![Logo](Logo.png)
 # PackagesGenerator
 PackagesGenerator for Delphi - Automatic Generator Package files for multiple versions of Delphi.
 
