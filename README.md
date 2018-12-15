@@ -35,7 +35,8 @@ Gen=Packages\ <- the path to the generated files
 GroupAbove=True 
   
 [Versions]  
-RX10Godzilla=320  
+RX10Rio=330  
+RX10Tokyo=320  
 RX10Berlin=310  
 RX10Seattle=300  
 XE8=290  
