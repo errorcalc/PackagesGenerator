@@ -1,6 +1,6 @@
 {******************************************************************************}
 {                             PackagesGenerator                                }
-{                             ErrorSoft(c) 2016                                }
+{                             ErrorSoft(c) 2018                                }
 {                                                                              }
 {                     More beautiful things: errorsoft.org                     }
 {                                                                              }
@@ -29,7 +29,7 @@ const
   sTitle =
 '{****************************************************************************}' + sLineBreak +
 '{                            PackagesGenerator                               }' + sLineBreak +
-'{                     ErrorSoft(c) Peter Sokolov, 2016                       }' + sLineBreak +
+'{                     ErrorSoft(c) Peter Sokolov, 2018                       }' + sLineBreak +
 '{                                                                            }' + sLineBreak +
 '{                    More beautiful things: errorsoft.org                    }' + sLineBreak +
 '{                                                                            }' + sLineBreak +
