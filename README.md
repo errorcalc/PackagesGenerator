@@ -19,7 +19,7 @@ MyComponents_XE3.dproj
 MyComponentsDesign_XE3.dpk  
 MyComponentsDesign_XE3.dproj  
 ...  
-MyComponentsDesign_RX10Berlin.dproj
+MyComponentsDesign_RX11Alexandria.dproj
 ```
 **Tiring create these files manually, also you can make mistakes.**  
 
@@ -34,6 +34,7 @@ Gen=Packages\ <- the path to the generated files
 GroupAbove=True 
   
 [Versions]  
+RX11Alexandria=280
 RX10Sydney=270
 RX10Rio=260
 RX10Tokyo=250
